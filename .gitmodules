@@ -1,0 +1,3 @@
+[submodule "finam-export"]
+	path = finam-export
+	url = https://github.com/ffeast/finam-export
